@@ -1,6 +1,6 @@
 # Hi, I’m Lizz 👋
 
-I’m a Data Analyst transitioning from tech support and operations, with 4+ years of experience improving workflows and solving problems through data.
+I’m a Data Analyst transitioning from tech support and operations, with 4+ years of experience improving workflows, identifying inefficiencies, and delivering actionable insights.
 
 ## 🔍 What I Do
 - Turn messy data into clear, actionable insights  

@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I’m Lizz 👋
 
-<!--
-**ElizabethParr/elizabethparr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Analyst transitioning from tech support and operations, with 4+ years of experience improving workflows and solving problems through data.
 
-Here are some ideas to get you started:
+## 🔍 What I Do
+- Turn messy data into clear, actionable insights  
+- Build dashboards in Tableau and Power BI  
+- Analyze trends to support data-driven decisions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- SQL  
+- Excel / Google Sheets  
+- Tableau  
+- Power BI  
+- Data Cleaning & Visualization  
+
+## 📊 Projects
+- Superstore Profitability Analysis (Tableau)  
+- Return Rate Monitoring Dashboard (Tableau)  
+- E-commerce Conversion Funnel (Google Sheets)  
+- App Reviews Analysis (Power BI)  
+
+## 💼 Open To
+I’m seeking entry-level Data Analyst or Business Intelligence roles, as well as project-based opportunities involving dashboards, reporting, and process improvement.
+
+## 🌎 Location
+Wisconsin, USA | Open to remote opportunities  
+
+## 🔗 Links
+- LinkedIn: https://www.linkedin.com/in/lizz-parr/  
+- GitHub Portfolio: https://github.com/ElizabethParr  
+- Resume: https://docs.google.com/document/d/1D5gNPzu8xijGUxx_qIsOCqOou_XQGWEs1JU28lHclQM/edit  
+
+## ✨ Fun Facts
+- I enjoy solving complex problems and optimizing workflows  
+- I learn best by building real-world projects  
+- I’m currently growing my skills in business intelligence and analytics  

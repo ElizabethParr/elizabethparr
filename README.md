@@ -34,7 +34,11 @@ I’m a Data Analyst with a background in tech support and operations, transitio
 
 <td align="center" width="50%">
 
-<h4>📈 Superstore Profitability Analysis</h4>
+<h4>
+  <a href="https://github.com/ElizabethParr/superstore-tableau-analysis">
+    📈 Superstore Profitability Analysis
+  </a>
+</h4>
 
 <a href="https://github.com/ElizabethParr/superstore-tableau-analysis">
   <img src="https://raw.githubusercontent.com/ElizabethParr/superstore-tableau-analysis/main/superstore-dashboard.png" height="220">
@@ -47,7 +51,11 @@ I’m a Data Analyst with a background in tech support and operations, transitio
 
 <td align="center" width="50%">
 
-<h4>🔄 Return Rate Monitoring Dashboard</h4>
+<h4>
+  <a href="https://github.com/ElizabethParr/return-rate-monitoring-dashboard">
+    🔄 Return Rate Monitoring Dashboard
+  </a>
+</h4>
 
 <a href="https://github.com/ElizabethParr/return-rate-monitoring-dashboard">
   <img src="https://raw.githubusercontent.com/ElizabethParr/return-rate-monitoring-dashboard/main/return_rate_dashboard.png" height="220">
@@ -68,7 +76,11 @@ I’m a Data Analyst with a background in tech support and operations, transitio
 
 <td align="center" width="50%">
 
-<h4>🛒 E-commerce Conversion Funnel</h4>
+<h4>
+  <a href="https://github.com/ElizabethParr/ecommerce-conversion-retention-analysis">
+    🛒 E-commerce Conversion Funnel
+  </a>
+</h4>
 
 <a href="https://github.com/ElizabethParr/ecommerce-conversion-retention-analysis">
   <img src="https://raw.githubusercontent.com/ElizabethParr/ecommerce-conversion-retention-analysis/main/conversion-funnel.png" height="220">
@@ -81,7 +93,11 @@ I’m a Data Analyst with a background in tech support and operations, transitio
 
 <td align="center" width="50%">
 
-<h4>📱 App Reviews Analysis</h4>
+<h4>
+  <a href="https://github.com/ElizabethParr/app-reviews-powerbi-analysis">
+    📱 App Reviews Analysis
+  </a>
+</h4>
 
 <a href="https://github.com/ElizabethParr/app-reviews-powerbi-analysis">
   <img src="https://raw.githubusercontent.com/ElizabethParr/app-reviews-powerbi-analysis/main/app_landscape.jpg" height="220">

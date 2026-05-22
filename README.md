@@ -133,4 +133,6 @@ Wisconsin, USA | Open to remote opportunities
 ## ✨ A Little About Me
 - I enjoy solving complex problems and optimizing workflows  
 - I learn best by building real-world projects  
-- I’m currently growing my skills in business intelligence and analytics
+- My background in tech support and operations gave me experience working with KPI reporting and dashboards from the business-user side  
+- I enjoy collaborating across teams and translating technical information into clear, actionable insights  
+- I’m continually growing my skills in business intelligence and analytics
